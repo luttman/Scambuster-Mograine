@@ -1,0 +1,12 @@
+## Interface: 30401
+## Title: Scambuster-Mograine
+## Notes: Extension for Scambuster packaging Golemagg realm data
+## Author: LuttmaN
+## Version: @project-version@
+## DefaultState: enabled
+## Dependencies: Scambuster
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
