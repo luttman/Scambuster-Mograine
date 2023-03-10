@@ -2,14 +2,9 @@ local _, t = ...
 
 -- Mograine Discord Blocklist Table
 
-t.version = "2023.03.10_0615"
+t.version = "@project-version@"
 
 t.case_table = {
-{
-  name = "Mysimp",
-  faction = "Horde",
-  url = "https://discord.com/channels/648650615823663107/1044958481825939589",
-},
 {
   name = "Kyedae",
   faction = "Horde",
