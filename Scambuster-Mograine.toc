@@ -1,6 +1,6 @@
 ## Interface: 30401
 ## Title: Scambuster-Mograine
-## Notes: Extension for Scambuster packaging Golemagg realm data
+## Notes: Extension for Scambuster packaging Mograine realm data
 ## Author: LuttmaN
 ## Version: @project-version@
 ## DefaultState: enabled
