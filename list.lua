@@ -1591,7 +1591,7 @@ t.case_table = {
 	category = "raid",
 	description = "Previously reported for shady RL behaviour - now spotted MLing himself an item he lost the roll on, and then logging out.",
 	url = "https://discord.com/channels/648650615823663107/1052336059540844544",
-	alias = "Kirstencoke", 
+	aliases = "Kirstencoke", 
 	},
 	{
 	name = "Smygislamist",
@@ -1793,7 +1793,6 @@ t.case_table = {
 	category = "raid",
 	description = "Taking all the loot they can carry from OS",
 	url = "https://discord.com/channels/648650615823663107/1070246919349207050",
-	},
 	aliases = 
 			{
 				{
@@ -1914,6 +1913,7 @@ t.case_table = {
 	description = "Steal undeserved loot, and clown in BL tread",
 	url = "https://discord.com/channels/648650615823663107/1077554720530513930",
 	aliases = {"Gussiah"}, 
+	},
 	{
 	name = "Stêffie",
 	category = "raid",
