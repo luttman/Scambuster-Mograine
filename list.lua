@@ -2,7 +2,7 @@ local _, t = ...
 
     --Mograine Discord Blocklist Table
 
-t.version = "2023.03.10_0615"
+t.version = "@project-version@"
 
 t.case_table = {
     {
