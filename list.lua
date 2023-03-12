@@ -1950,4 +1950,10 @@ t.case_table = {
 	description = "Stealing loot from Sapp and KT",
 	url = "https://discord.com/channels/648650615823663107/1082674965586911312",
 	},
+	{
+	name = "Kpowers",
+	category = "raid",
+	description = "Rolls on an item he already has, then hands it over to a guildie.",
+	url = "https://discord.com/channels/648650615823663107/1084173072493465670",
+	},
 }
