@@ -1968,9 +1968,6 @@ t.case_table = {
     			{
     			name = "Tétley",
     			},
-    			{
-                name = "Superpork",
-                },
                 {
                 name = "Mochai",
                 },
