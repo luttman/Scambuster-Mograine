@@ -1951,9 +1951,62 @@ t.case_table = {
 	url = "https://discord.com/channels/648650615823663107/1082674965586911312",
 	},
 	{
-	name = "Kpowers",
-	category = "raid",
-	description = "Rolls on an item he already has, then hands it over to a guildie.",
-	url = "https://discord.com/channels/648650615823663107/1084173072493465670",
+        players =
+    		{
+    			{
+    			name = "Superpork",
+    			},
+    			{
+    			name = "Kpowers",
+    			},
+    			{
+    			name = "Kpowérs",
+    			},
+    			{
+    			name = "Laikenarla",
+    			},
+    			{
+    			name = "Tétley",
+    			},
+    			{
+                name = "Superpork",
+                },
+                {
+                name = "Mochai",
+                },
+                {
+                name = "Soulonius",
+                },
+                {
+                name = "Tetlay",
+                },
+                {
+                name = "ßoßßa",
+                },
+                {
+                name = "Milkí",
+                },
+                {
+                name = "Burgzla",
+                },
+                {
+                name = "Hamburgla",
+                },
+    		},
+    	category = "raid",
+    	description = "Guild hosts pugs and has members roll on items they don't need to keep it in the guild. Doubled down on this behaviour afterwards",
+    	url = "https://discord.com/channels/648650615823663107/1052332037073289296",
 	},
+	{
+    	name = "Komornikx",
+    	category = "raid",
+    	description = "Stole VoA mount and left raid afterwards. Tried to ninja gun in ulduar until pressured by raid to let people roll.",
+    	url = "https://discord.com/channels/648650615823663107/1084876799214891010",
+    },
+    {
+        name = "Abyssbreak",
+        category = "raid",
+        description = "RL gave him turning tide by mistake, refused to give it back and even tried to sell it.",
+        url = "https://discord.com/channels/648650615823663107/1082364131329445979",
+    },
 }
